@@ -1,1 +1,11 @@
 .DS_Store
+project-c/logs
+project-c/project
+project-c/target
+project-c/eb-package-prep
+project-c/*.zip
+project-d/logs
+project-d/project
+project-d/target
+project-d/eb-package-prep
+project-d/*.zip
